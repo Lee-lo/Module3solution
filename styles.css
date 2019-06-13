@@ -4,11 +4,6 @@ body {
   background-color: #BEE3F5;
   font-family: 'Oxygen', sans-serif;
 }
-<style>
-  input {
-    cursor: inherit;    
-  }
-</style>
 
 #header-nav {
   background-color: #FDDB58;
@@ -62,7 +57,7 @@ h1 {text-align: center;
     text-transform: uppercase;
     color: #E77471;
   }
-h3 {text-align: center;
+p {text-align: center;
 }
 
  section{ 
