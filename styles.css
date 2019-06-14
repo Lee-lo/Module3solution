@@ -34,11 +34,11 @@ body {
 #nav-list {
   margin-top: 10px;
 }
-#nav-list a {
+#nav-list {
   color: #E77471;
   text-align: center;
 }
-#nav-list a:hover {
+#nav-list:hover {
   background: #89D1F1;
 }
 #nav-list a span {
